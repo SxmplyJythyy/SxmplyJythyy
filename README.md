@@ -1,11 +1,11 @@
-## Johnluke (John/SxmplyJythyy) 👋
+## I'm Johnluke (John/SxmplyJythyy) 👋
 
 ![Meme Programming GIF](https://media4.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif)
 
 ### About Me ℹ️
 Hello! I'm John. I'm a student enrolled at George Brown College in the Program T191.
 
-I'm currently using/interested in the following languages, tools/frameworks:
+I'm currently using/interested in the following languages/tools/frameworks:
 - Python 🐍 - Beginner-Intermediate 👨‍💻
 - HTML/CSS 🌐 - Beginner/Learning 🏫
 - JavaScript 🟨 - Intermediate-Advanced 👨‍💻
@@ -14,7 +14,6 @@ I'm currently using/interested in the following languages, tools/frameworks:
 - Linux 🐧 - Beginner/Learning 🏫
 
 ### Contact Me 📧
-You can find me on any of the following platforms:
 - 📱 Discord: @sxmplyjythyy
 - 📱 Instagram: [sxmplyjythyy](https://www.instagram.com/sxmplyjythyy/)
 - ℹ️ LinkedIn: [Johnluke Francis](https://www.linkedin.com/in/johnluke-francis-97792b30b/)
